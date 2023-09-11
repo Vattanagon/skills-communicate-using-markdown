@@ -14,4 +14,4 @@ print("Hello World")
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
-- [ ] Either keep smile to the world OR fixed all the mess you made for your stupidity
+- [x] Either keep smile to the world OR fixed all the mess you made for your stupidity
